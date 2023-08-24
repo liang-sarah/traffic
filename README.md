@@ -65,4 +65,4 @@ original data is likely correlated with the hour of the day. As the hour of the 
 midnight, the variance grows. The number of lanes can also affect traffic flow. Intuitively this makes sense,
 the more lanes the less congested it is to drive. Overall, the SARIMA model produced a great result, and
 I can grow further in this project to achieve better results, perhaps in considering other models. Or I can
-search for other traffic data for better and more variety in variables to use in the ARMAX model
+search for other traffic data for better and more variety in variables to use in the ARMAX model.
